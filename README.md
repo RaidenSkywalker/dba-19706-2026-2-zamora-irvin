@@ -3,6 +3,8 @@
 **Estudiante:** Zamora Serrano Irvin Donovan — Grupo 4-3
 **Motor:** PostgreSQL 16 en Docker (contenedor `postgres-lab`)
 
+**NOTA:** Se desarrollo otro repositorio para tener un nuevo orden en cuanto al desarrollo de cada practica
+
 Repositorio con los laboratorios de la **Unidad II — Seguridad, privacidad y control de acceso**, organizados en orden y con la estructura que pide cada práctica.
 
 ## Laboratorios
