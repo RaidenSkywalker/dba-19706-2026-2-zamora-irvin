@@ -1,6 +1,9 @@
 # DBA 19706 — Gestión de Seguridad y Desempeño de Bases de Datos
 
-**Estudiante:** Zamora Serrano Irvin Donovan — Grupo 4-3
+**FACULTAD DE INFORMATICA CULIACAN**<br>
+**UNIVERSIDAD AUTONOMA DE SINALOA**<br>
+**Estudiante:** Zamora Serrano Irvin Donovan <br>
+**Grupo:** 4-3<br>
 **Motor:** PostgreSQL 16 en Docker (contenedor `postgres-lab`)
 
 **NOTA:** Se desarrollo otro repositorio para tener un nuevo orden en cuanto al desarrollo de cada practica
