@@ -20,7 +20,7 @@ Repositorio con los laboratorios de la **Unidad II — Seguridad, privacidad y c
 |---|---|---|---|---|
 | 1 | LAB-01 | Protección y privacidad de datos | [`unidad-02/lab-01-proteccion-privacidad`](unidad-02/lab-01-proteccion-privacidad) | Entregado |
 | 2 | LAB-02 | Cifrado, credenciales y comunicaciones seguras | [`unidad-02/lab-02-cifrado-credenciales`](unidad-02/lab-02-cifrado-credenciales) | Entregado |
-| 3 | LAB-03 | Privacidad, cumplimiento y gobierno de datos | [`unidad-02/lab-03-privacidad-cumplimiento`](unidad-02/lab-03-privacidad-cumplimiento) | `<completar>` |
+| 3 | LAB-03 | Privacidad, cumplimiento y gobierno de datos | [`unidad-02/lab-03-privacidad-cumplimiento`](unidad-02/lab-03-privacidad-cumplimiento) | Entregado |
 | 4 | LAB-04 | Hardening y configuración segura de PostgreSQL | [`unidad-02/lab-04-hardening`](unidad-02/lab-04-hardening) | `<completar>` |
 
 ## Historial de trabajo
